@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"untold-loneliness",
+			"suicide",
+			[
+				188,
+				225,
+				250
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "",
+	"freeplayColor": [
+		43,
+		46,
+		40
+	],
+	"hideStoryMode": true,
+	"weekBefore": "",
+	"weekName": "suicide",
+	"startUnlocked": true
+}
